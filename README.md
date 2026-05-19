@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MERN Social 2.0
 - *Looking for the first edition code? [Check here](https://github.com/shamahoque/mern-social/tree/master)*
 
@@ -56,3 +57,6 @@ Things you'll learn in this book:
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1839215410) today!
 
 ---
+=======
+# mern_social-media
+>>>>>>> e9e60acb714a3dde9361fe54d7699b9b14fa906e
